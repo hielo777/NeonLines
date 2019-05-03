@@ -1,2 +1,2 @@
 # NeonLines
-Neon Lines board with Unity and PubNiub
+Neon Lines board with Unity and PubNub
