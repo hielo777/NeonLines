@@ -1,9 +1,5 @@
-#Neon Lines Multiplayer Game with Unity and PubNub 
-
-
+# Neon Lines Multiplayer Game with Unity and PubNub 
 ![](https://2.bp.blogspot.com/-XUNcpOzrAZs/XM0eraZY1oI/AAAAAAAAxCY/jSPoGkxnBkMtUtXAB5sen77lscx3999MQCLcBGAs/s400/Hello%2BNeon%2BLines.png)
-
-[TOC]
 
 After having the chance to sit down and experiment a little bit with [Unity](https://unity.com/) and [PubNub](https://www.pubnub.com/), and seeing how easy you can use both to create engaging games or apps, I created a project named [Neon Lines](https://hielo777.github.io/NeonLines) to showcase [PubNub's Unity SDK](https://www.pubnub.com/docs/unity3d-c-sharp/pubnub-c-sharp-sdk) and how to build a fun multiplayer game.
 
@@ -15,13 +11,13 @@ The [Neon Lines](https://hielo777.github.io/NeonLines) project is a multiplayer 
 https://hielo777.github.io/NeonLines
 
 In this post we will go through the different aspects of creating this project and understanding the basic concepts of **PubNub** applications.
-##1. Setup
-###1.1 Unity and PubNub
+## 1. Setup
+### 1.1 Unity and PubNub
 I assume you already downloaded [Unity from their official page](https://unity.com/). It is free for personal use, and should take a few minutes downloading it, depending on the different features you want to include.
 
 It is also recommended to [create your own PubNub account](https://dashboard.pubnub.com/signup). It takes just a couple of minutes and you can start checking PubNub's different features and supported platforms.
 
-###1.2 The project in Unity
+### 1.2 The project in Unity
 The easiest way for you to build and run this project is to clone this GitHub's repo.
 
 If you do this, you will have a file named Neon Lines 0519.unitypackage that you can import in unity (**Assets -> Import Package -> Custom Package**)
